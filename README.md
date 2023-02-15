@@ -1,9 +1,11 @@
-### Hello Word, me chamo Bia.
+### Anna Beatryz
 
-📚 Estudante de Análise e Desevolvimento de Sistemas
-
-🎮 < Build for developer >
-
+🎓 Técnica em Desevolvimento de Sistemas (ETE JBL)
+<div></div>
+👩🏽‍💻 Graduando em Ciência da Computação (UFRPE)
+  <p></p>
+✨ < Build for developer > 
+  <p></p>
 <div align="center">
   <a href="https://github.com/agedanna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agedanna&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

@@ -2,7 +2,8 @@
 
 🎓 Técnica em Desevolvimento de Sistemas (ETE JBL)
 <div></div>
-👩🏽‍💻 Graduando em Ciência da Computação (UFRPE)
+👩🏽‍💻 Graduando em Gestão da Informação (UFPE) 
+🎓 Graduando em Sistemas para Internet (UNICAP)
   <p></p>
 ✨ < Build for developer > 
   <p></p>

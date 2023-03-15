@@ -3,6 +3,7 @@
 🎓 Técnica em Desevolvimento de Sistemas (ETE JBL)
 <div></div>
 👩🏽‍💻 Graduando em Gestão da Informação (UFPE) 
+ <p></p>
 🎓 Graduando em Sistemas para Internet (UNICAP)
   <p></p>
 ✨ < Build for developer > 

@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=9D7BB2F7&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Hello+World!;Welcome+to+my+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=700&color=F7F7F7&background=FFFFFF00&vCenter=true&width=435&lines=Bem+vindos+ao+meu+perfil.;%E2%9C%A8+%3C+Build+for+developer+%3E+)](https://git.io/typing-svg)
 
 🎓 Técnica em Desevolvimento de Sistemas (ETE JBL)
 <div></div>
@@ -7,7 +7,7 @@
  <p></p>
 🎓 Graduando em Sistemas para Internet (UNICAP)
   <p></p>
-✨ < Build for developer > 
+
   <p></p>
 <div align="center">
   <a href="https://github.com/agedanna">

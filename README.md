@@ -1,10 +1,14 @@
+<p>Desenvolvedora Full Stack Jr.
+
+Olá, meu nome é Anna Beatryz e tenho 19 anos. Sou apaixonada por tecnologia e atualmente estudo Sistemas para Internet na UNICAP e Ciência da Informação na UFPE. Sou uma pessoa muito curiosa e comunicativa, adoro conversar sobre as infinitas possibilidades que existem nesse mundo dos códigos. Aqui, estou registrando uma parte do meu processo de aprendizagem. </p><br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=700&color=F7F7F7&background=FFFFFF00&vCenter=true&width=435&lines=Bem+vindos+ao+meu+perfil.;%E2%9C%A8+%3C+Build+for+developer+%3E+)](https://git.io/typing-svg)
 
-<div align="center"><br>
-     <p> Olá, meu nome é Anna Beatryz e tenho 19 anos. Sou apaixonada por tecnologia e atualmente estudo Sistemas para Internet na UNICAP e Ciência da Informação na UFPE. Sou uma pessoa muito curiosa e comunicativa, adoro conversar sobre as infinitas possibilidades que existem nesse mundo dos códigos. Aqui, estou registrando uma parte do meu processo de aprendizagem. </p>
-     <br>
- </div>
+
+```ruby
+class Programmer
+  def initialize()
+```
 
   <p></p>
 <div align="center">
@@ -39,4 +43,9 @@
   </div>
  
 ![Snake animation](https://github.com/agedanna/agedanna/blob/output/github-contribution-grid-snake.svg) 
+
+```ruby
+  end
+end
+```
 

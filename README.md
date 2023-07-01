@@ -1,7 +1,10 @@
 ### Olá, meu nome é Anna Beatryz
-<p>Desenvolvedora Full Stack Jr.
 
-Sou apaixonada por tecnologia e atualmente estudo Sistemas para Internet na UNICAP e Ciência da Informação na UFPE. Sou uma pessoa muito curiosa e comunicativa, adoro conversar sobre as infinitas possibilidades que existem nesse mundo dos códigos. Aqui, estou registrando uma parte do meu processo de aprendizagem. </p><br/>
+```css
+Desenvolvedora Full Stack Jr
+```
+
+<p>Sou apaixonada por tecnologia e atualmente estudo Sistemas para Internet na UNICAP e Ciência da Informação na UFPE. Sou uma pessoa muito curiosa e comunicativa, adoro conversar sobre as infinitas possibilidades que existem nesse mundo dos códigos. Aqui, estou registrando uma parte do meu processo de aprendizagem. </p><br/>
 
 ```ruby
 class Programmer

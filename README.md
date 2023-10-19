@@ -1,7 +1,7 @@
 ### Olá, meu nome é Anna Beatryz
 
 ```css
-Desenvolvedora Web Mobile Jr
+Software Developer
 ```
 
 <p>Sou apaixonada por tecnologia e atualmente estudo Sistemas para Internet na UNICAP e Ciência da Computação na Uniámerica Sou uma pessoa muito curiosa e comunicativa, adoro conversar sobre as infinitas possibilidades que existem nesse mundo dos códigos. Aqui, estou registrando uma parte do meu processo de aprendizagem. </p><br/>

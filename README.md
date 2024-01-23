@@ -1,58 +1,50 @@
-### Olá, meu nome é Anna Beatryz
+![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
+<h1 align="center">Hi 👋, I'm Anna B</h1>
 
-```css
-Software Developer
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popppins&pause=1000&color=8E29F7&random=false&width=435&lines=A+web+front-end+developer...;A+programmer...;A+technology+enthusiast...)](https://git.io/typing-svg)
 
-<p>Sou apaixonada por tecnologia e atualmente estudo Sistemas para Internet na UNICAP e Ciência da Computação na Uniámerica Sou uma pessoa muito curiosa e comunicativa, adoro conversar sobre as infinitas possibilidades que existem nesse mundo dos códigos. Aqui, estou registrando uma parte do meu processo de aprendizagem. </p><br/>
-
-```ruby
-class Programmer
-  def initialize()
-```
-<h3 align="left">Social:</h3>
-  <div>
-  <a href="https://instagram.com/_beatryz.melo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/aged_ana" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:annabeatryz12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anna-beatryz-0508a4233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
-</div>
+I am pursuing my Bachelor's degree in Internet Systems at the Catholic University of Pernambuco. I am very passionate about Machine and Deep Learning. I am always interested in learning and trying new concepts.<br>
 <br>
- <div align="center"> 
-  <img src="https://i.redd.it/w3n46nk83ir81.gif" width="50%">
-  </div>
-<hr>
-  <p></p>
-<h3 align="left">Languages and Tools:</h3>
-  <div>     
-  <img align="center" width="35" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" width="35" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" width="35" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" width="35" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" width="35" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" width="35" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-  <img align="center" width="35" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" width="35" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" width="35" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" width="35" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" width="35" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
-  <img align="center" width="35" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />   
-  <img align="center" width="35" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-         
-   </div>
-  <p></p>
-<div> 
-<br>
-<div align="center">
-  <a href="https://github.com/agedanna">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=agedanna&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agedanna&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+
+
+- 🔭 I'm currently working to develop a deep understanding of web development.
+
+- 👯 I'm looking to collaborate on projects to gain experience.
+
+- 👨‍💻 I primarily work with JavaScript (JS) and TypeScript (TS).
+
+- 💬 Feel free to ask me anything; I'd love to help.
 <br>
 
-```ruby
-  end
-end
-```
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-beatryz-0508a4233/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=black)](https://agedanna.github.io/portfolio/) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23F24E1E.svg?style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2307405e.svg?style=for-the-badge&logo=python&logoColor=white)
+# 📊 GitHub Stats:
+<p>
+  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgedAnna&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="AgedAnna" /></p>
+<p>
+  <img align="center" width="395px" src="https://github-readme-stats.vercel.app/api?username=AgedAnna&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="AgedAnna" />
+</p>
+
+
+
+
 

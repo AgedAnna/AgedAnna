@@ -48,9 +48,9 @@ I am pursuing my Bachelor's degree in Internet Systems at the Catholic Universit
 ![Python](https://img.shields.io/badge/python-%2307405e.svg?style=for-the-badge&logo=python&logoColor=white)
 # 📊 GitHub Stats:
 <p>
-  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgedAnna&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="AgedAnna" /></p>
+  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgedAnna&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en&layout=compact" alt="AgedAnna" /></p>
 <p>
-  <img align="center" width="395px" src="https://github-readme-stats.vercel.app/api?username=AgedAnna&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="AgedAnna" />
+  <img align="center" width="395px" src="https://github-readme-stats.vercel.app/api?username=AgedAnna&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en" alt="AgedAnna" />
 </p>
 
 

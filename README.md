@@ -1,4 +1,5 @@
-![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
+![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)
+
 <h1 align="center">Hi 👋, I'm Anna B</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popppins&pause=1000&color=8E29F7&random=false&width=435&lines=A+web+front-end+developer...;A+programmer...;A+technology+enthusiast...)](https://git.io/typing-svg)

@@ -1,6 +1,6 @@
-![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a97fd053-8da8-4d01-8ce8-24bc69afce91/dchpshu-570275a8-19eb-459d-98ac-fd0904963f6c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E5N2ZkMDUzLThkYTgtNGQwMS04Y2U4LTI0YmM2OWFmY2U5MVwvZGNocHNodS01NzAyNzVhOC0xOWViLTQ1OWQtOThhYy1mZDA5MDQ5NjNmNmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oqFYTUlDYi4zS7h_vbGJ1RyWK7Y7Ij9c_0Nk_yC1YEA)
 
-<h1 align="center">Hi 👋, I'm Anna B</h1>
+<h1 align="center">Hi 👋, I'm Anna Bia</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popppins&pause=1000&color=8E29F7&random=false&width=435&lines=A+web+front-end+developer...;A+programmer...;A+technology+enthusiast...)](https://git.io/typing-svg)
 

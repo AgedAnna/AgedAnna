@@ -6,8 +6,7 @@
 
 I am pursuing my Bachelor's degree in Internet Systems at the Catholic University of Pernambuco. I am very passionate about Machine and Deep Learning. I am always interested in learning and trying new concepts.<br>
 <br>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
-
+<img align="right" alt="coding" width="350" src="https://miro.medium.com/v2/resize:fit:1400/1*WKS5uUEDzK4YdVRq7DOkbw.gif">
 
 - 🔭 I'm currently working to develop a deep understanding of web development.
 

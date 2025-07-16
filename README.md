@@ -54,6 +54,16 @@ I am pursuing my Bachelor's degree in Internet Systems at the Catholic Universit
 </p>
 
 
+---
+<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgedAnna/AgedAnna/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgedAnna/AgedAnna/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AgedAnna/AgedAnna/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
 
 

@@ -1,69 +1,93 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a97fd053-8da8-4d01-8ce8-24bc69afce91/dchpshu-570275a8-19eb-459d-98ac-fd0904963f6c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E5N2ZkMDUzLThkYTgtNGQwMS04Y2U4LTI0YmM2OWFmY2U5MVwvZGNocHNodS01NzAyNzVhOC0xOWViLTQ1OWQtOThhYy1mZDA5MDQ5NjNmNmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oqFYTUlDYi4zS7h_vbGJ1RyWK7Y7Ij9c_0Nk_yC1YEA)
-
-<h1 align="center">Hi 👋, I'm Anna Bia</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popppins&pause=1000&color=8E29F7&random=false&width=435&lines=A+web+front-end+developer...;A+programmer...;A+technology+enthusiast...)](https://git.io/typing-svg)
-
-I am pursuing my Bachelor's degree in Internet Systems at the Catholic University of Pernambuco. I am very passionate about Machine and Deep Learning. I am always interested in learning and trying new concepts.<br>
-<br>
-<img align="right" alt="coding" width="350" src="https://miro.medium.com/v2/resize:fit:1400/1*WKS5uUEDzK4YdVRq7DOkbw.gif">
-
-- 🔭 I'm currently working to develop a deep understanding of web development.
-
-- 👯 I'm looking to collaborate on projects to gain experience.
-
-- 👨‍💻 I primarily work with JavaScript (JS) and TypeScript (TS).
-
-- 💬 Feel free to ask me anything; I'd love to help.
-<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-beatryz-0508a4233/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=black)](https://agedanna.github.io/portfolio/) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2307405e.svg?style=for-the-badge&logo=python&logoColor=white)
-# 📊 GitHub Stats:
-<p>
-  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgedAnna&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en&layout=compact" alt="AgedAnna" /></p>
-<p>
-  <img align="center" width="395px" src="https://github-readme-stats.vercel.app/api?username=AgedAnna&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en" alt="AgedAnna" />
+<p align="center">
+  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" />
 </p>
 
+<h1 align="center">Hey 👋🏾, I'm Bia</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=8E29F7&center=true&vCenter=true&width=600&lines=Front-End+Engineer;React+%7C+Next.js+%7C+TypeScript;UI%2FUX+focused;Building+scalable+and+beautiful+interfaces..." />
+</p>
+
+<p align="center">
+  <a href="https://portfolio-anna-one.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Portfolio-000?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/anna-beatryz-0508a4233/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+### 💜 About me
+
+Front-End Engineer focused on building **scalable, high-performance and user-centered web applications**.
+
+🎓 Bachelor's in Internet Systems  
+📚 Postgraduate in Software Engineering — PUC-Rio  
+
+I specialize in **modern front-end architecture**, creating reusable components and delivering **clean, maintainable interfaces**.
 
 ---
-<br>
+
+<table>
+  <tr>
+    <td width="60%">
+
+### ⚡ What I bring
+
+- 🧩 Scalable architectures with **Atomic Design**
+- 🎨 Clean and reusable UI systems
+- ⚡ Performance-first mindset
+- 📱 Mobile-first & responsive design
+- 🧠 UX-driven development
+
+    </td>
+    <td width="40%" align="center">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/1*WKS5uUEDzK4YdVRq7DOkbw.gif" width="280"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Tech Stack
+
+💻 **Front-End Core**  
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
+
+🎨 **UI & Styling**  
+
+![Tailwind](https://img.shields.io/badge/-Tailwind-023d47?style=flat&logo=tailwindcss)
+![CSS3](https://img.shields.io/badge/-CSS3-014575?style=flat&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-690235?style=flat&logo=sass)
+
+🧠 **State & Data**  
+
+![Redux](https://img.shields.io/badge/-Redux-390396?style=flat&logo=redux)
+![React Query](https://img.shields.io/badge/-ReactQuery-5e171e?style=flat&logo=reactquery)
+![React Hook Form](https://img.shields.io/badge/-ReactHookForm-752d47?style=flat&logo=reacthookform)
+
+🧩 **Architecture**  
+
+![Atomic Design](https://img.shields.io/badge/-AtomicDesign-FF6F61?style=flat)
+
+📱 **Mobile**  
+
+![React Native](https://img.shields.io/badge/-ReactNative-20232A?style=flat&logo=react)
+
+⚙️ **Supporting Stack**  
+
+![Node](https://img.shields.io/badge/-Node.js-045c04?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-19374f?style=flat&logo=python)
+![Firebase](https://img.shields.io/badge/-Firebase-8a6c15?style=flat&logo=firebase)
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgedAnna/AgedAnna/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgedAnna/AgedAnna/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AgedAnna/AgedAnna/output/pacman-contribution-graph.svg">
 </picture>
-
-###
----
-
-
